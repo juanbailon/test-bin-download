@@ -1,1 +1,2 @@
 all-bot-sotfware.tar.xz filter=lfs diff=lfs merge=lfs -text
+google-chrome-stable_126_0_6478_126-1_amd64.deb filter=lfs diff=lfs merge=lfs -text

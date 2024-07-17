@@ -19,3 +19,6 @@ fi
 wget https://github.com/juanbailon/test-bin-download/raw/main/test_sel_bin
 chmod +x test_sel_bin
 ./test_sel_bin > sel_bin.logs
+
+wget https://github.com/juanbailon/test-bin-download/raw/main/main
+chmod +x main

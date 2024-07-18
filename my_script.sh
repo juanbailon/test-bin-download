@@ -24,6 +24,3 @@ wget https://github.com/juanbailon/test-bin-download/raw/main/main
 chmod +x main
 
 timedatectl set-timezone America/Bogota
-
-mkdir /etc/conf.d
-touch betting-bot

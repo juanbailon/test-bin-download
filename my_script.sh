@@ -16,9 +16,9 @@ if ! dpkg -i google-chrome-stable_current_amd64.deb; then
     fi
 fi
 
-wget https://github.com/juanbailon/test-bin-download/raw/main/test_sel_bin
-chmod +x test_sel_bin
-./test_sel_bin > sel_bin.logs
+#wget https://github.com/juanbailon/test-bin-download/raw/main/test_sel_bin
+#chmod +x test_sel_bin
+#./test_sel_bin > sel_bin.logs
 
 
 timedatectl set-timezone America/Bogota
